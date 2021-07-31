@@ -1,0 +1,16 @@
+Pode ocorrer do Gmail bloquear o acesso de outras aplicações, é normal.
+Ocorre a exceção:
+
+The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+
+>> Para a correção, altere a segurança do acesso para menos seguro, seguindo o tutorial abaixo:
+
+http://digcode.com/posts/m20190/Solved-Failed-to-send-email-through-Gmail-The-SMTP-server-requires-a-secure-connection-or-the-client-was-not-authenticated-The-server-response-was-5-7-0-Authentication-Required
+
+
+Passos:
+1. Clique na sua foto/nome que aparece no canto direito superior;
+2. Clique em "Gerenciar sua conta do google"
+3. Clique em "Segurança", no lado esquerdo;
+4. Desça até "Acesso a app menos seguro";
+5. Clique e aceite o "Ativar acesso"

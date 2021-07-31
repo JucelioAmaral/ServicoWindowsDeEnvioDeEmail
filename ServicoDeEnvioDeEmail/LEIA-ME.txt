@@ -1,0 +1,63 @@
+-*OBS 1: Executar o cmd como ADM.
+-*OBS 2: Executar com a versão mais recente do .NET framework (v4.0.30319):
+
+--------------------------------------------------------------------------NÃO APAGAR E LER ACIMA ! ---------------------------
+Verificar processos em execução: tasklist /svc
+
+
+-------------
+>>Parar o serviço windows
+
+net stop <nome do servico>
+
+sem o "exe" no final, somente o nome do serviço.
+
+-------------
+Os logs do serviço também podem ser visto no Event Viewer
+
+-------------
+https://www.youtube.com/watch?v=ZqynaND1FwY
+
+https://www.youtube.com/watch?v=umg5rfxoaQg
+
+
+>> Instalação: installutil...
+c:\Windows\Microsoft.NET\Framework\v4.0.30319>installutil "C:\Users\Jucelio\Docu
+ments\My documents\Aplicações\Serviço do windows\ServicoDeEnvioDeEmail\ServicoDe
+EnvioDeEmail\bin\Debug\ServicoDeEnvioDeEmail.exe"
+
+
+>> Desinstalação:  installutil /u...
+c:\Windows\Microsoft.NET\Framework\v4.0.30319>installutil /u "C:\Users\Jucelio\Docu
+ments\My documents\Aplicações\Serviço do windows\ServicoDeEnvioDeEmail\ServicoDe
+EnvioDeEmail\bin\Debug\ServicoDeEnvioDeEmail.exe"
+
+>>>> DICA: Ao colar a linha de comando acima e alto excecutar, deve-se inserir:
+primeiro: c:\Windows\Microsoft.NET\Framework\v4.0.30319>
+segundo: installutil
+terceiro: /u
+quarto: diretorio (copiado pelo windows explorer)
+quinto: o executavel.
+
+------------
+
+
+
+USE [DBEnviaEmail]
+GO
+
+CREATE TABLE [dbo].[tblEnviarEmail](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[EmailOrigem] [varchar](30) NOT NULL,
+	[EmailDestino] [varchar](30) NOT NULL,
+	[NomeOrigem] [varchar](30) NOT NULL,
+	[NomeDestino] [varchar](30) NOT NULL,
+	[Assunto] [varchar](30) NOT NULL,
+	[Mensagem] [varchar](30) NOT NULL,
+	[Status] [varchar](30) NOT NULL,
+	[DataHora] [datetime] NULL
+) ON [PRIMARY]
+
+
+
+

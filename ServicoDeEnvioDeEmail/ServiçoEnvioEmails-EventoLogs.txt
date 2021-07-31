@@ -1,0 +1,31 @@
+31-07-2021  11:19:05 Serviço de envio de email foi iniciado.
+31-07-2021  11:19:05 Verificação de emails pendentes iniciada.
+31-07-2021  11:19:05 Email enviado para wabtectester@gmail.com
+31-07-2021  11:19:05 Atualizando banco de dados...
+31-07-2021  11:19:05 Banco atualizado.
+31-07-2021  11:19:05 Email enviado para wabtectester@gmail.com
+31-07-2021  11:19:05 Atualizando banco de dados...
+31-07-2021  11:19:05 Banco atualizado.
+31-07-2021  11:22:29 OnStart:Exception:O sistema não pode encontrar o arquivo especificado
+31-07-2021  11:25:00 Serviço de envio de email foi iniciado.
+31-07-2021  11:25:00 Verificação de emails pendentes iniciada.
+31-07-2021  11:25:00 Email enviado para wabtectester@gmail.com
+31-07-2021  11:25:00 Atualizando banco de dados...
+31-07-2021  11:25:00 Banco atualizado.
+31-07-2021  11:25:00 Email enviado para wabtectester@gmail.com
+31-07-2021  11:25:00 Atualizando banco de dados...
+31-07-2021  11:25:00 Banco atualizado.
+31-07-2021  11:34:47 Serviço de envio de email foi iniciado.
+31-07-2021  11:34:47 Verificação de emails pendentes iniciada.
+31-07-2021  11:34:47 Email enviado para wabtectester@gmail.com
+31-07-2021  11:34:47 Atualizando banco de dados...
+31-07-2021  11:34:47 Banco atualizado.
+31-07-2021  11:34:47 Email enviado para wabtectester@gmail.com
+31-07-2021  11:34:47 Atualizando banco de dados...
+31-07-2021  11:34:47 Banco atualizado.
+31-07-2021  11:34:47 Email enviado para wabtectester@gmail.com
+31-07-2021  11:34:47 Atualizando banco de dados...
+31-07-2021  11:34:47 Banco atualizado.
+31-07-2021  11:34:47 Email enviado para wabtectester@gmail.com
+31-07-2021  11:34:47 Atualizando banco de dados...
+31-07-2021  11:34:47 Banco atualizado.

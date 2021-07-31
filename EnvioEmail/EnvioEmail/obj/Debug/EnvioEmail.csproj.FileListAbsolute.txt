@@ -1,0 +1,30 @@
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe.config
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.pdb
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.Properties.Resources.resources
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csproj.GenerateResource.cache
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csproj.CoreCompileInputs.cache
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.exe
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.pdb
+C:\Users\Jucelio\Desktop\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csprojAssemblyReference.cache
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe.config
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.pdb
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.frmEnvioDeEmail.resources
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.Properties.Resources.resources
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csproj.GenerateResource.cache
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csproj.CoreCompileInputs.cache
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.exe
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.pdb
+C:\Users\Jucelio\Documents\My documents\Aplicações\Serviço do windows\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csproj.ResolveComReference.cache
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe.config
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.exe
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\bin\Debug\EnvioEmail.pdb
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csprojAssemblyReference.cache
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csproj.ResolveComReference.cache
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.frmEnvioDeEmail.resources
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.Properties.Resources.resources
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csproj.GenerateResource.cache
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.csproj.CoreCompileInputs.cache
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.exe
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\EnvioEmail\EnvioEmail\obj\Debug\EnvioEmail.pdb

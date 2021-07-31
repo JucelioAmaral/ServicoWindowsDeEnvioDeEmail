@@ -1,0 +1,20 @@
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Debug\ServicoDeEnvioDeEmail.exe.config
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Debug\ServicoDeEnvioDeEmail.exe
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Debug\ServicoDeEnvioDeEmail.pdb
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.csprojAssemblyReference.cache
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.ProjectInstaller.resources
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.ServiceEnviodeEmail.resources
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.csproj.GenerateResource.cache
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.csproj.CoreCompileInputs.cache
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.exe
+E:\APLICAÇÕES E CURSOS\APPS GENÉRICOS\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.pdb
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Debug\ServicoDeEnvioDeEmail.exe.config
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Debug\ServicoDeEnvioDeEmail.exe
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Debug\ServicoDeEnvioDeEmail.pdb
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.csprojAssemblyReference.cache
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.ProjectInstaller.resources
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.ServiceEnviodeEmail.resources
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.csproj.GenerateResource.cache
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.csproj.CoreCompileInputs.cache
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.exe
+E:\APLICAÇÕES E CURSOS\Serviço do windows-EnviaEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\obj\Debug\ServicoDeEnvioDeEmail.pdb

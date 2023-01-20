@@ -1,0 +1,419 @@
+﻿Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Attempt to stop service Serviço Envio Email.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Uninstalling assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Removing EventLog source Serviço Envio Email.
+Service Serviço Envio Email is being removed from the system...
+Service Serviço Envio Email was successfully removed from the system.
+Installing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe
+Installing service Serviço Envio Email...
+Service Serviço Envio Email has been successfully installed.
+Creating EventLog source Serviço Envio Email in log Application...
+Committing assembly 'E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.InstallLog
+   assemblypath = E:\REPOSITORIES\ServicoWindowsDeEnvioDeEmail\ServicoDeEnvioDeEmail\ServicoDeEnvioDeEmail\bin\Release\ServicoDeEnvioDeEmail.exe

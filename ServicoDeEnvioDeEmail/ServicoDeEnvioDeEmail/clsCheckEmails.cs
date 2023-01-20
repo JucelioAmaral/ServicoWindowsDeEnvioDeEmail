@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
 using System.Diagnostics;
-using System.Linq;
 using System.Net;
 using System.Net.Mail;
 using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace ServicoDeEnvioDeEmail
 {
@@ -38,16 +35,16 @@ namespace ServicoDeEnvioDeEmail
                     SqlDataReader reader = cmd.ExecuteReader();
                     while (reader.Read())
                     {
-                        if (EnviaEmailparaGmail(reader["EmailOrigem"].ToString(),
-                            reader["EmailDestino"].ToString(),
-                            reader["NomeOrigem"].ToString(),
-                            reader["NomeDestino"].ToString(),
-                            reader["Assunto"].ToString(),
-                            reader["Mensagem"].ToString()) == true)
-                        {
-                            AtualizaBancoDeDados(Convert.ToInt32(reader["Id"].ToString()));
-                        }
-
+                        // ENVIO DE EMAIL PELO GMAIL COMENTADO DEVIDO NÃO ESTAR MAIS SEND POSSÍVEL O ENVIO CONFORME O GMAIL: "A partir de 30 de maio de 2022, o Google não autorizará mais o uso de apps ou dispositivos de terceiros que exigem apenas nome de usuário e senha para fazer login na Conta do Google . Essa mudança tem como objetivo proteger sua conta." 
+                        //if (EnviaEmailDoGmail(reader["EmailOrigem"].ToString(),
+                        //    reader["EmailDestino"].ToString(),
+                        //    reader["NomeOrigem"].ToString(),
+                        //    reader["NomeDestino"].ToString(),
+                        //    reader["Assunto"].ToString(),
+                        //    reader["Mensagem"].ToString()) == true)
+                        //{
+                        AtualizaBancoDeDados(Convert.ToInt32(reader["Id"].ToString()));
+                        //}
                     }
                     reader.Close();
                     con.Close();
@@ -56,7 +53,6 @@ namespace ServicoDeEnvioDeEmail
             }
             catch (Exception e)
             {
-                EventLog.WriteEntry("VerificarEmailsPendentes:Exception:", e.Message.ToString());
                 evtWriter.GetFileEvents().WriteEventLogs("VerificarEmailsPendentes:Exception:" + e.Message, true);
             }
             finally
@@ -64,6 +60,7 @@ namespace ServicoDeEnvioDeEmail
 
             }
         }
+
         /// <summary>
         /// Envia Email para Gmail
         /// </summary>
@@ -74,7 +71,7 @@ namespace ServicoDeEnvioDeEmail
         /// <param name="assunto"></param>
         /// <param name="mensagememail"></param>
         /// <returns></returns>
-        public bool EnviaEmailparaGmail(string emailOrigem,
+        public bool EnviaEmailDoGmail(string emailOrigem,
             string emailDestino,
             string nomeOrigem,
             string nomeDestino,
@@ -83,7 +80,7 @@ namespace ServicoDeEnvioDeEmail
         {
             try
             {
-               //evtWriter.GetFileEvents().WriteEventLogs("Enviando email...", true);
+                //evtWriter.GetFileEvents().WriteEventLogs("Enviando email...", true);
                 var senhaEmail = ConfigurationSettings.AppSettings["SENHA"];
                 var hostEmail = ConfigurationSettings.AppSettings["HOST"];
                 var port = ConfigurationSettings.AppSettings["PORT"];
@@ -98,10 +95,10 @@ namespace ServicoDeEnvioDeEmail
 
                 SmtpClient smtp = new SmtpClient(hostEmail, portnumber);
                 smtp.EnableSsl = true;
-                smtp.UseDefaultCredentials = false;                
+                smtp.UseDefaultCredentials = false;
                 smtp.Credentials = new NetworkCredential(origem.Address, senhaEmail);
-                Console.WriteLine("Mensagem enviada para  " + origem.Address + " às " + DateTime.Now.ToString() + ".");
                 smtp.Send(mensagem);
+                Console.WriteLine("Mensagem enviada para  " + origem.Address + " às " + DateTime.Now.ToString() + ".");
                 evtWriter.GetFileEvents().WriteEventLogs("Email enviado para " + origem.Address.ToString(), true);
 
                 return true;
@@ -116,7 +113,8 @@ namespace ServicoDeEnvioDeEmail
             {
 
             }
-        }
+        }      
+
         /// <summary>
         /// Atualiza o Banco de DeDados
         /// </summary>
@@ -131,7 +129,7 @@ namespace ServicoDeEnvioDeEmail
                 con = getConn.getConexaoBD();
                 con.Open();
                 string sqlString = "";
-                sqlString = "UPDATE tblEnviarEmail SET status = 'S',DataHora='" + time.ToString(format) + "' WHERE Id = @id";
+                sqlString = "UPDATE tblEnviarEmail SET status = 'S', DataHora='" + time.ToString(format) + "' WHERE Id = @id";
                 SqlCommand cmdupdate = new SqlCommand(sqlString, con);
                 cmdupdate.Parameters.Add(new SqlParameter("@Id", id));
                 cmdupdate.ExecuteNonQuery();

@@ -1,31 +1,64 @@
-31-07-2021  11:19:05 Serviço de envio de email foi iniciado.
-31-07-2021  11:19:05 Verificação de emails pendentes iniciada.
-31-07-2021  11:19:05 Email enviado para wabtectester@gmail.com
-31-07-2021  11:19:05 Atualizando banco de dados...
-31-07-2021  11:19:05 Banco atualizado.
-31-07-2021  11:19:05 Email enviado para wabtectester@gmail.com
-31-07-2021  11:19:05 Atualizando banco de dados...
-31-07-2021  11:19:05 Banco atualizado.
-31-07-2021  11:22:29 OnStart:Exception:O sistema não pode encontrar o arquivo especificado
-31-07-2021  11:25:00 Serviço de envio de email foi iniciado.
-31-07-2021  11:25:00 Verificação de emails pendentes iniciada.
-31-07-2021  11:25:00 Email enviado para wabtectester@gmail.com
-31-07-2021  11:25:00 Atualizando banco de dados...
-31-07-2021  11:25:00 Banco atualizado.
-31-07-2021  11:25:00 Email enviado para wabtectester@gmail.com
-31-07-2021  11:25:00 Atualizando banco de dados...
-31-07-2021  11:25:00 Banco atualizado.
-31-07-2021  11:34:47 Serviço de envio de email foi iniciado.
-31-07-2021  11:34:47 Verificação de emails pendentes iniciada.
-31-07-2021  11:34:47 Email enviado para wabtectester@gmail.com
-31-07-2021  11:34:47 Atualizando banco de dados...
-31-07-2021  11:34:47 Banco atualizado.
-31-07-2021  11:34:47 Email enviado para wabtectester@gmail.com
-31-07-2021  11:34:47 Atualizando banco de dados...
-31-07-2021  11:34:47 Banco atualizado.
-31-07-2021  11:34:47 Email enviado para wabtectester@gmail.com
-31-07-2021  11:34:47 Atualizando banco de dados...
-31-07-2021  11:34:47 Banco atualizado.
-31-07-2021  11:34:47 Email enviado para wabtectester@gmail.com
-31-07-2021  11:34:47 Atualizando banco de dados...
-31-07-2021  11:34:47 Banco atualizado.
+19-01-2023  22:54:32 Verificação de emails pendentes iniciada.
+19-01-2023  22:54:52 Verificação de emails pendentes iniciada.
+19-01-2023  22:59:06 Verificação de emails pendentes iniciada.
+19-01-2023  22:59:06 VerificarEmailsPendentes:Exception:The source was not found, but some or all event logs could not be searched.  To create the source, you need permission to read all event logs to make sure that the new source name is unique.  Inaccessible logs: Security.
+19-01-2023  22:59:06 Verificação de emails pendentes iniciada.
+19-01-2023  23:00:05 Verificação de emails pendentes iniciada.
+19-01-2023  23:00:05 VerificarEmailsPendentes:Exception:The source was not found, but some or all event logs could not be searched.  To create the source, you need permission to read all event logs to make sure that the new source name is unique.  Inaccessible logs: Security.
+19-01-2023  23:01:19 Verificação de emails pendentes iniciada.
+19-01-2023  23:03:06 Verificação de emails pendentes iniciada.
+19-01-2023  23:08:28 Verificação de emails pendentes iniciada.
+19-01-2023  23:08:28 Atualizando banco de dados...
+19-01-2023  23:08:28 Banco atualizado.
+19-01-2023  23:08:28 Atualizando banco de dados...
+19-01-2023  23:08:28 Banco atualizado.
+19-01-2023  23:08:28 VerificarEmailsPendentes:Exception:Thread was being aborted.
+19-01-2023  23:10:37 Serviço de envio de email foi iniciado.
+19-01-2023  23:10:37 Verificação de emails pendentes iniciada.
+19-01-2023  23:10:37 Atualizando banco de dados...
+19-01-2023  23:10:37 Banco atualizado.
+19-01-2023  23:10:37 Atualizando banco de dados...
+19-01-2023  23:10:37 Banco atualizado.
+19-01-2023  23:17:32 Verificação de emails pendentes iniciada.
+19-01-2023  23:17:32 Atualizando banco de dados...
+19-01-2023  23:17:32 Banco atualizado.
+19-01-2023  23:17:32 Atualizando banco de dados...
+19-01-2023  23:17:32 Banco atualizado.
+19-01-2023  23:17:32 VerificarEmailsPendentes:Exception:Thread was being aborted.
+19-01-2023  23:19:30 Verificação de emails pendentes iniciada.
+19-01-2023  23:19:30 Atualizando banco de dados...
+19-01-2023  23:19:30 Banco atualizado.
+19-01-2023  23:19:30 VerificarEmailsPendentes:Exception:Thread was being aborted.
+19-01-2023  23:22:40 IniciarProcessamento:Iniciano Processamento.
+19-01-2023  23:22:40 Verificação de emails pendentes iniciada.
+19-01-2023  23:22:40 Atualizando banco de dados...
+19-01-2023  23:22:40 Banco atualizado.
+19-01-2023  23:22:40 Atualizando banco de dados...
+19-01-2023  23:22:40 Banco atualizado.
+19-01-2023  23:22:40 VerificarEmailsPendentes:Exception:Thread was being aborted.
+19-01-2023  23:22:40 FinalizarProcessamento:Processos finalizados.
+19-01-2023  23:23:46 IniciarProcessamento:InicianDo Processamento.
+19-01-2023  23:23:46 Verificação de emails pendentes iniciada.
+19-01-2023  23:23:46 getConexaoBD:Exception:Thread was being aborted.
+19-01-2023  23:23:46 VerificarEmailsPendentes:Exception:The source was not found, but some or all event logs could not be searched.  To create the source, you need permission to read all event logs to make sure that the new source name is unique.  Inaccessible logs: Security.
+19-01-2023  23:23:46 FinalizarProcessamento:Processos finalizados.
+19-01-2023  23:25:36 IniciarProcessamento:InicianDo Processamento.
+19-01-2023  23:25:36 Verificação de emails pendentes iniciada.
+19-01-2023  23:25:36 VerificarEmailsPendentes:Exception:Thread was being aborted.
+19-01-2023  23:25:36 FinalizarProcessamento:Processos finalizados.
+19-01-2023  23:31:03 IniciarProcessamento:Iniciando Processamento.
+19-01-2023  23:31:03 Verificação de emails pendentes iniciada.
+19-01-2023  23:31:03 Atualizando banco de dados...
+19-01-2023  23:31:03 Banco atualizado.
+19-01-2023  23:31:03 Atualizando banco de dados...
+19-01-2023  23:31:03 Banco atualizado.
+19-01-2023  23:31:03 FinalizarProcessamento:Processos finalizados.
+19-01-2023  23:31:03 VerificarEmailsPendentes:Exception:Thread was being aborted.
+19-01-2023  23:32:38 Serviço de envio de email foi iniciado.
+19-01-2023  23:32:38 IniciarProcessamento:Iniciando Processamento.
+19-01-2023  23:32:38 Verificação de emails pendentes iniciada.
+19-01-2023  23:32:38 Atualizando banco de dados...
+19-01-2023  23:32:38 Banco atualizado.
+19-01-2023  23:32:38 Atualizando banco de dados...
+19-01-2023  23:32:38 Banco atualizado.
+19-01-2023  23:32:38 Serviço de envio de email foi finalizado.

@@ -19,7 +19,7 @@ namespace ServicoDeEnvioDeEmail
             {
                 var conexaoBD = ConfigurationSettings.AppSettings["CONEXAOBD"];
                 //obtem a string de conexão do App.Config e retorna uma nova conexao
-                SqlConnection sqlConn = new SqlConnection("Data Source=" + conexaoBD + ";Initial Catalog=DBEnviaEmail;User Id=jra; Password=jra");
+                SqlConnection sqlConn = new SqlConnection("Data Source=" + conexaoBD + ";Initial Catalog=DBServicoDeEnviarEmail;User Id=jra; Password=jra");
                 return sqlConn;
             }
             catch (Exception e)

@@ -1,9 +1,11 @@
-﻿using System;
+﻿using ServicoDeEnvioDeEmail.TestesDebug;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace ServicoDeEnvioDeEmail
 {
@@ -14,12 +16,20 @@ namespace ServicoDeEnvioDeEmail
         /// </summary>
         static void Main()
         {
-            ServiceBase[] ServicesToRun;
-            ServicesToRun = new ServiceBase[]
             {
-                new ServiceEnviodeEmail()
-            };
-            ServiceBase.Run(ServicesToRun);
+#if DEBUG
+                Application.EnableVisualStyles();
+                Application.SetCompatibleTextRenderingDefault(false);
+                Application.Run(new Form1());
+#else
+                ServiceBase[] ServicesToRun;
+                ServicesToRun = new ServiceBase[]
+                {
+                    new ServiceEnviodeEmail()
+                };
+                ServiceBase.Run(ServicesToRun);
+#endif
+            }
         }
     }
 }
